@@ -3,7 +3,7 @@ This Repository is include some question and answers about git and git commands 
 
 @dwsclass 
 #bloodrina group
-dws-dev-005-git
+#dws-dev-005-git
 ------
 A number of git commands: 
 If you want to get a copy of an existing Git repository — for example, a project you’d like to
