@@ -1,7 +1,7 @@
 # git-cheatsheet
 This Repository is include some question and answers about git and git commands for devops class.[dws-dev-005-git.pdf](https://github.com/tahere-dinashi/git-cheatsheet/files/7775622/dws-dev-005-git.pdf)
 
-@dwsclass 
+@dwsclass
 #bloodrina group
 #dws-dev-005-git
 ------
